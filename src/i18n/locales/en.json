@@ -1,0 +1,30 @@
+{
+  "APP": {
+    "close": "Close"
+  },
+  "LAYOUT": {
+    "faq": "FAQ",
+    "help": "Help",
+    "signIn": "Sign In",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "search": "Search",
+    "darkMode": "Dark Mode",
+
+    "title": "Lets Start",
+    "subtitle": "To keep connected us please login with your personal info"
+  },
+  "SIDEBAR": {
+    "dashboard": "Dashboard",
+    "investNow": "Invest Now",
+    "myInvestments": "My Investments",
+    "planInvestments": "Plan Investments",
+    "myWallet": "My Wallet",
+    "settings": "Settings",
+    "help": "Help",
+    "logout": "Logout"
+  },
+  "LANGUAGE": "LANGUAGE",
+  "RTL": false,
+  "$vuetify": "en"
+}

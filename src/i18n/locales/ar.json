@@ -1,0 +1,30 @@
+{
+  "APP": {
+    "close": "أغلق"
+  },
+  "LAYOUT": {
+    "faq": "الأسئلة الشائعة",
+    "help": "مساعدة",
+    "signIn": "دخول",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "search": "البحث",
+    "darkMode": "الوضع الداكن",
+
+    "title": "دعنا نبدء",
+    "subtitle": "للبقاء على اتصال معنا يرجى تسجيل الدخول باستخدام معلوماتك الشخصية"
+  },
+  "SIDEBAR": {
+    "dashboard": "لوحة القيادة",
+    "investNow": "استثمر الآن",
+    "myInvestments": "استثماراتي",
+    "planInvestments": "تخطيط الإستثمار",
+    "myWallet": "محفظتي",
+    "settings": "الإعدادات",
+    "help": "مساعدة",
+    "logout": "خروج"
+  },
+  "LANGUAGE": "لغة",
+  "RTL": true,
+  "$vuetify": "ar"
+}

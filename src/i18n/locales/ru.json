@@ -1,0 +1,30 @@
+{
+  "APP": {
+    "close": "близко"
+  },
+  "LAYOUT": {
+    "faq": "Вопросы-Ответы",
+    "help": "помощь",
+    "signIn": "логин",
+    "about": "насчет нас",
+    "contact": "Связаться",
+    "search": "искать",
+    "darkMode": "темная тема",
+
+    "title": "Давайте начнем",
+    "subtitle": "Советский Союз восстанет снова!"
+  },
+  "SIDEBAR": {
+    "dashboard": "Сволочь",
+    "investNow": "Пиздец",
+    "myInvestments": "Мудак",
+    "planInvestments": "Пидорас",
+    "myWallet": "Развалюха",
+    "settings": "на хуй",
+    "help": "Блять",
+    "logout": "Сука"
+  },
+  "LANGUAGE": "язык",
+  "RTL": false,
+  "$vuetify": "ru"
+}

@@ -1,0 +1,31 @@
+{
+  "APP": {
+    "close": "Menutup"
+  },
+  "LAYOUT": {
+    "faq": "PERTANYAAN",
+    "help": "BANTUAN",
+    "signIn": "SIGN IN",
+    "about": "TENTANG",
+    "contact": "HUBUNGI",
+    "search": "Telusuri",
+    "darkMode": "Tema Gelap",
+
+    "title": "Mari Memulai",
+    "subtitle": "To keep connected us please login with your personal info"
+  },
+  "SIDEBAR": {
+    "dashboard": "Beranda",
+    "investNow": "Daftar Investasi",
+    "myInvestments": "Investasi Saya",
+    "planInvestments": "Perencanaan",
+    "myWallet": "Dompet",
+    "settings": "Pengaturan",
+    "help": "Bantuan",
+    "logout": "Logout"
+  },
+
+  "LANGUAGE": "BAHASA",
+  "RTL": false,
+  "$vuetify": "en"
+}
