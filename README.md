@@ -1,5 +1,18 @@
 # vuetify-starter-kit
+[![Build Status](https://travis-ci.org/grainer/vuetify-starter-kit.svg?branch=master)](https://travis-ci.org/grainer/vuetify-starter-kit)
 
+this kit comes with the following:
+
+- typescript
+- vuetify
+- tailwindcss
+- vuerouter
+- vuex
+- prettier
+- commitlint
+- commitsitizen
+- sematic-release
+- conventional changelog
 ## Project setup
 ```
 yarn install
