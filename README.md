@@ -7,11 +7,13 @@ this kit comes with the following:
 - typescript
 - vue-property-decorator
 - vuetify
+- vuetify sass variable customization setup
 - tailwindcss
 - tailwindcss-dir (RTL support)
 - vuerouter
 - vuex
 - vue-persistant-state (localstorage state)
+- secure locale storage (encryption)
 - i18n
 - prettier
 - commitlint
