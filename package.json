@@ -57,7 +57,7 @@
     "husky": "^4.2.5",
     "node-sass": "^4.14.1",
     "prettier": "2.0.5",
-    "sass": "^1.19.0",
+    "sass": "^1.26.10",
     "sass-loader": "^8.0.2",
     "semantic-release": "^17.0.7",
     "typescript": "~3.8.3",
