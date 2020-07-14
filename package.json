@@ -20,7 +20,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.5",
     "core-js": "^3.6.4",
     "register-service-worker": "^1.7.1",
     "secure-ls": "^1.2.6",
